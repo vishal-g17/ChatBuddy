@@ -5,8 +5,6 @@
 
 ***[This documentation is purely a human effort and not an AI generated content piece](https://drive.google.com/file/d/1fmbjBZ_vFJC8ornYdPlrRMFz_yxcY2H2/view?usp=sharing)***
 
-***[We value the effort in crafting our detailed content. For added convenience, a video presentation is available. Click the link to watch.](https://drive.google.com/file/d/188KSuuCmAiFMxkeMFY9ydJMfgH5bt3k6/view?usp=sharing)***
-
 ## 1. Overview 🤔
 
 Samwad the one-stop solution for parents to understand how their children spend their time on social media.
@@ -92,17 +90,4 @@ We have recorded a video of the complete walkthrough of our project. [Click here
 
 | Streamlit|Matplotlib|seaborn|urlextract |  wordcloud | pandas| Emojis                                
 | -| -| -| - |- |- |-
-
-## Usage Guidelines 📝
-
-We have recorded a video of the complete walkthrough of our project. [Click here](https://drive.google.com/file/d/188KSuuCmAiFMxkeMFY9ydJMfgH5bt3k6/view?usp=sharing) to watch the video.
-
-To analyze the whatsapp chats, we need to first export the chats (Make sure to export the chats without media). [Watch this](https://www.youtube.com/shorts/c3bTkXp9gqg) video to understand how to export chats. Our version 1.0 works only with 24 hour clock with the following date time format:- 
-
-![day time format](https://github.com/shrujaig14/Samwad/assets/134779004/0a3c5341-ca97-44bc-95c4-aa23166539f7)
-
-
-(We are actively working on creating a generalized version of the date and time.)
-
-[Click here](https://drive.google.com/file/d/1HsYSZymUhi7GSSUtFrgljUFSPAA9Z8oc/view?usp=sharing) to get a few exported chats to test and analyze our product.
 
